@@ -2,6 +2,8 @@
 
 An interactive Streamlit chat app where you can talk to emotionally expressive AI personas like Father, Mother, Sister, Brother, Friend, and more. 💖
 
+https://github.com/user-attachments/assets/f216203c-24eb-4a37-99b3-35de0fb6468a
+
 ## ✨ Features
 - 🧠 Multiple relationship-based AI personas
 - 💬 Natural, concise conversational responses
